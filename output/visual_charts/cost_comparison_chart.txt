@@ -1,0 +1,36 @@
+MST COST COMPARISON - Consistency Check
+========================================
+
+Graph Size        | Prim Cost | Kruskal Cost | Consistent
+------------------|-----------|--------------|-----------
+Graph_1          |       204 |          204 |          ✓
+Graph_2          |       213 |          213 |          ✓
+Graph_3          |       213 |          213 |          ✓
+Graph_4          |       342 |          342 |          ✓
+Graph_5          |       257 |          257 |          ✓
+Graph_6          |       495 |          495 |          ✓
+Graph_7          |       575 |          575 |          ✓
+Graph_8          |       615 |          615 |          ✓
+Graph_9          |       562 |          562 |          ✓
+Graph_10         |       488 |          488 |          ✓
+Graph_11         |       452 |          452 |          ✓
+Graph_12         |       625 |          625 |          ✓
+Graph_13         |       518 |          518 |          ✓
+Graph_14         |       601 |          601 |          ✓
+Graph_15         |       672 |          672 |          ✓
+Graph_16         |      1138 |         1138 |          ✓
+Graph_17         |      1385 |         1385 |          ✓
+Graph_18         |      1072 |         1072 |          ✓
+Graph_19         |      1385 |         1385 |          ✓
+Graph_20         |      1151 |         1151 |          ✓
+Graph_21         |      1079 |         1079 |          ✓
+Graph_22         |      1136 |         1136 |          ✓
+Graph_23         |      1162 |         1162 |          ✓
+Graph_24         |      1093 |         1093 |          ✓
+Graph_25         |      1707 |         1707 |          ✓
+Graph_26         |      2427 |         2427 |          ✓
+Graph_27         |      2199 |         2199 |          ✓
+Graph_28         |      2738 |         2738 |          ✓
+
+SUMMARY STATISTICS:
+Consistency Rate: 100,0% (28/28)

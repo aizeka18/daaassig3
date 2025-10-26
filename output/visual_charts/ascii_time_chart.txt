@@ -1,0 +1,89 @@
+ASCII EXECUTION TIME COMPARISON CHART
+======================================
+
+Each '#' represents 5ms
+
+G1  : Prim [###################           ] 95 ms
+    : Krus [##################################] 174 ms
+
+G2  : Prim [                              ] 0 ms
+    : Krus [                              ] 0 ms
+
+G3  : Prim [                              ] 0 ms
+    : Krus [                              ] 0 ms
+
+G4  : Prim [                              ] 0 ms
+    : Krus [                              ] 0 ms
+
+G5  : Prim [                              ] 0 ms
+    : Krus [                              ] 0 ms
+
+G6  : Prim [#                             ] 7 ms
+    : Krus [#                             ] 8 ms
+
+G7  : Prim [                              ] 3 ms
+    : Krus [                              ] 3 ms
+
+G8  : Prim [                              ] 3 ms
+    : Krus [                              ] 3 ms
+
+G9  : Prim [#                             ] 7 ms
+    : Krus [                              ] 3 ms
+
+G10 : Prim [                              ] 4 ms
+    : Krus [#                             ] 5 ms
+
+G11 : Prim [                              ] 4 ms
+    : Krus [                              ] 4 ms
+
+G12 : Prim [                              ] 2 ms
+    : Krus [                              ] 3 ms
+
+G13 : Prim [                              ] 3 ms
+    : Krus [                              ] 4 ms
+
+G14 : Prim [                              ] 2 ms
+    : Krus [                              ] 2 ms
+
+G15 : Prim [                              ] 2 ms
+    : Krus [                              ] 2 ms
+
+G16 : Prim [######                        ] 34 ms
+    : Krus [######                        ] 30 ms
+
+G17 : Prim [#####                         ] 26 ms
+    : Krus [###                           ] 16 ms
+
+G18 : Prim [########                      ] 42 ms
+    : Krus [#####                         ] 25 ms
+
+G19 : Prim [###                           ] 17 ms
+    : Krus [##                            ] 12 ms
+
+G20 : Prim [#######                       ] 35 ms
+    : Krus [###                           ] 19 ms
+
+G21 : Prim [######                        ] 34 ms
+    : Krus [#####                         ] 25 ms
+
+G22 : Prim [######                        ] 30 ms
+    : Krus [###                           ] 18 ms
+
+G23 : Prim [#####                         ] 29 ms
+    : Krus [####                          ] 21 ms
+
+G24 : Prim [#######                       ] 35 ms
+    : Krus [####                          ] 24 ms
+
+G25 : Prim [##                            ] 14 ms
+    : Krus [##                            ] 11 ms
+
+G26 : Prim [###                           ] 16 ms
+    : Krus [##                            ] 11 ms
+
+G27 : Prim [######                        ] 34 ms
+    : Krus [#####                         ] 26 ms
+
+G28 : Prim [########                      ] 43 ms
+    : Krus [#####                         ] 25 ms
+

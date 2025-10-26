@@ -1,0 +1,11 @@
+graph_id,vertex_count,edge_count,category,graph_density,is_connected,prim_total_cost,prim_execution_time_ms,prim_operations_count,prim_mst_edges_count,kruskal_total_cost,kruskal_execution_time_ms,kruskal_operations_count,kruskal_mst_edges_count,costs_consistent,performance_ratio,operations_ratio,mst_validation
+large_1,1000,109325,large,0,2189,true,1138,34,223813,999,1138,30,121882,999,true,0,882,0,545,VALID
+large_2,1000,70905,large,0,1420,true,1385,26,146641,999,1385,16,85193,999,true,0,615,0,581,VALID
+large_3,1000,132463,large,0,2652,true,1072,42,269867,999,1072,25,145680,999,true,0,595,0,540,VALID
+large_4,1000,67154,large,0,1344,true,1385,17,139883,999,1385,12,81646,999,true,0,706,0,584,VALID
+large_5,1000,108633,large,0,2175,true,1151,35,221592,999,1151,19,120683,999,true,0,543,0,545,VALID
+large_6,1000,125002,large,0,2503,true,1079,34,255620,999,1079,25,138828,999,true,0,735,0,543,VALID
+large_7,1000,106996,large,0,2142,true,1136,30,218626,999,1136,18,119577,999,true,0,600,0,547,VALID
+large_8,1000,107894,large,0,2160,true,1162,29,220553,999,1162,21,120898,999,true,0,724,0,548,VALID
+large_9,1000,125125,large,0,2505,true,1093,35,255563,999,1093,24,138546,999,true,0,686,0,542,VALID
+large_10,1000,53088,large,0,1063,true,1707,14,111795,999,1707,11,68120,999,true,0,786,0,609,VALID

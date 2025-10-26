@@ -1,0 +1,37 @@
+EXECUTION TIME COMPARISON - Prim vs Kruskal
+=============================================
+
+Graph Size        | Prim (ms) | Kruskal (ms) | Ratio (K/P)
+------------------|-----------|--------------|------------
+Graph_1          |        95 |          174 |       1,83
+Graph_2          |         0 |            0 |       0,00
+Graph_3          |         0 |            0 |       0,00
+Graph_4          |         0 |            0 |       0,00
+Graph_5          |         0 |            0 |       0,00
+Graph_6          |         7 |            8 |       1,14
+Graph_7          |         3 |            3 |       1,00
+Graph_8          |         3 |            3 |       1,00
+Graph_9          |         7 |            3 |       0,43
+Graph_10         |         4 |            5 |       1,25
+Graph_11         |         4 |            4 |       1,00
+Graph_12         |         2 |            3 |       1,50
+Graph_13         |         3 |            4 |       1,33
+Graph_14         |         2 |            2 |       1,00
+Graph_15         |         2 |            2 |       1,00
+Graph_16         |        34 |           30 |       0,88
+Graph_17         |        26 |           16 |       0,62
+Graph_18         |        42 |           25 |       0,60
+Graph_19         |        17 |           12 |       0,71
+Graph_20         |        35 |           19 |       0,54
+Graph_21         |        34 |           25 |       0,74
+Graph_22         |        30 |           18 |       0,60
+Graph_23         |        29 |           21 |       0,72
+Graph_24         |        35 |           24 |       0,69
+Graph_25         |        14 |           11 |       0,79
+Graph_26         |        16 |           11 |       0,69
+Graph_27         |        34 |           26 |       0,76
+Graph_28         |        43 |           25 |       0,58
+
+SUMMARY STATISTICS:
+Average Time - Prim: 18,61 ms, Kruskal: 16,93 ms
+Overall Ratio (Kruskal/Prim): 0,91

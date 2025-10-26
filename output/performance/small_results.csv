@@ -1,0 +1,6 @@
+graph_id,vertex_count,edge_count,category,graph_density,is_connected,prim_total_cost,prim_execution_time_ms,prim_operations_count,prim_mst_edges_count,kruskal_total_cost,kruskal_execution_time_ms,kruskal_operations_count,kruskal_mst_edges_count,costs_consistent,performance_ratio,operations_ratio,mst_validation
+small_1,30,225,small,0,5172,true,204,95,561,29,204,174,537,29,true,1,832,0,957,VALID
+small_2,30,219,small,0,5034,true,213,0,524,29,213,0,441,29,true,0,000,0,842,VALID
+small_3,30,170,small,0,3908,true,213,0,427,29,213,0,401,29,true,0,000,0,939,VALID
+small_4,30,166,small,0,3816,true,342,0,418,29,342,0,397,29,true,0,000,0,950,VALID
+small_5,30,217,small,0,4989,true,257,0,509,29,257,0,412,29,true,0,000,0,809,VALID
